@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="114be5f6-750d-4789-bde9-b63a3ad227c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vargq7zHHYfsW5LJvnVHxUDeiT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.first_button2">
+    <configuration name="first_button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinterproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_button.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_button2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinterproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_button2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="from_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinterproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/from_turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinterproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_tkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinterproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.first_button2" />
+        <item itemvalue="Python.import_turtle" />
+        <item itemvalue="Python.from_turtle" />
+        <item itemvalue="Python.first_button" />
+        <item itemvalue="Python.import_tkinter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114be5f6-750d-4789-bde9-b63a3ad227c4" name="Default Changelist" comment="" />
+      <created>1577502160984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577502160984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1414" height="246" key="GridCell.Tab.0.bottom" timestamp="1577624147790">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1577583668459" />
+    <state width="1414" height="246" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1577624147790" />
+    <state width="1399" height="257" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1577504930998" />
+    <state width="1399" height="257" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1577504927157" />
+    <state width="1414" height="246" key="GridCell.Tab.0.center" timestamp="1577624147789">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1577583668458" />
+    <state width="1414" height="246" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1577624147789" />
+    <state width="1399" height="257" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1577504930997" />
+    <state width="1399" height="257" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1577504927157" />
+    <state width="1414" height="246" key="GridCell.Tab.0.left" timestamp="1577624147789">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1577583668458" />
+    <state width="1414" height="246" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1577624147789" />
+    <state width="1399" height="257" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1577504930997" />
+    <state width="1399" height="257" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1577504927156" />
+    <state width="1414" height="246" key="GridCell.Tab.0.right" timestamp="1577624147789">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1577583668459" />
+    <state width="1414" height="246" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1577624147789" />
+    <state width="1399" height="257" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1577504930998" />
+    <state width="1399" height="257" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1577504927157" />
+    <state width="1414" height="246" key="GridCell.Tab.1.bottom" timestamp="1577624147791">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1577583668460" />
+    <state width="1414" height="246" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1577624147791" />
+    <state width="1399" height="257" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1577504931000" />
+    <state width="1399" height="257" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1577504927043" />
+    <state width="1414" height="246" key="GridCell.Tab.1.center" timestamp="1577624147790">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1577583668460" />
+    <state width="1414" height="246" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1577624147790" />
+    <state width="1399" height="257" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1577504930999" />
+    <state width="1399" height="257" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1577504927042" />
+    <state width="1414" height="246" key="GridCell.Tab.1.left" timestamp="1577624147790">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1577583668459" />
+    <state width="1414" height="246" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1577624147790" />
+    <state width="1399" height="257" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1577504930999" />
+    <state width="1399" height="257" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1577504927041" />
+    <state width="1414" height="246" key="GridCell.Tab.1.right" timestamp="1577624147791">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1415" height="249" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1577583668460" />
+    <state width="1414" height="246" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1577624147791" />
+    <state width="1399" height="257" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1577504931000" />
+    <state width="1399" height="257" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1577504927042" />
+    <state x="196" y="23" key="SettingsEditor" timestamp="1579392454000">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="196" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1579392454000" />
+    <state x="229" y="64" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1577581419311" />
+    <state x="299" y="157" width="824" height="538" key="find.popup" timestamp="1577538270954">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="299" y="157" width="824" height="538" key="find.popup/0.23.1440.806@0.23.1440.806" timestamp="1577538270954" />
+  </component>
+</project>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="838fc01a-59b0-429e-b013-70f3af68f2ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/.idea/Practice1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/Tkinterproject_S02L06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/01_entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/02_entry_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/03_Text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/04_list_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/venv/lib/python3.8/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/venv/lib/python3.8/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/Turtle_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/dictionaries/xiao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/doraemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/venv/lib/python3.8/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/venv/lib/python3.8/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gloableVariable/Tk_Practice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gloableVariable/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/pactice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinterproject4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinterproject4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beautiful_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/beautiful_shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinterproject4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinterproject4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../window/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../window/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1V4FEXr38WUEXK9DFJIUoV4ggUu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.guess_number">
+    <configuration name="猜数字游戏" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="猜数字游戏" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/猜数字游戏.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="beautiful_shape" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="猜数字游戏" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautiful_shape.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guess_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="猜数字游戏" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guess_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="猜数字游戏" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="猜数字游戏" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.guess_number" />
+        <item itemvalue="Python.random" />
+        <item itemvalue="Python.square" />
+        <item itemvalue="Python.beautiful_shape" />
+        <item itemvalue="Python.猜数字游戏" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838fc01a-59b0-429e-b013-70f3af68f2ff" name="Default Changelist" comment="" />
+      <created>1576504348452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576504348452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576595236580">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="435" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.806@0.23.1440.806" timestamp="1576595236580" />
+    <state x="251" y="23" key="CommitChangelistDialog2" timestamp="1581076258088">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="251" y="23" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1581076258088" />
+    <state x="101" y="123" width="1220" height="606" key="DiffContextDialog" timestamp="1581076896154">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="101" y="123" width="1220" height="606" key="DiffContextDialog/0.23.1440.806@0.23.1440.806" timestamp="1581076896154" />
+    <state width="1394" height="191" key="GridCell.Tab.0.bottom" timestamp="1581080982446">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576505747419" />
+    <state width="1394" height="191" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1581080982446" />
+    <state width="1394" height="242" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1581076834896" />
+    <state width="1399" height="257" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1577500467228" />
+    <state width="1394" height="191" key="GridCell.Tab.0.center" timestamp="1581080982446">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576505747418" />
+    <state width="1394" height="191" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1581080982446" />
+    <state width="1394" height="242" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1581076834895" />
+    <state width="1399" height="257" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1577500467228" />
+    <state width="1394" height="191" key="GridCell.Tab.0.left" timestamp="1581080982445">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576505747416" />
+    <state width="1394" height="191" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1581080982445" />
+    <state width="1394" height="242" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1581076834895" />
+    <state width="1399" height="257" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1577500467227" />
+    <state width="1394" height="191" key="GridCell.Tab.0.right" timestamp="1581080982446">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576505747418" />
+    <state width="1394" height="191" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1581080982446" />
+    <state width="1394" height="242" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1581076834895" />
+    <state width="1399" height="257" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1577500467228" />
+    <state width="1394" height="240" key="GridCell.Tab.1.bottom" timestamp="1581080982440">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1394" height="240" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1581080982440" />
+    <state width="1394" height="242" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1581076834897" />
+    <state width="1399" height="257" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1577500467230" />
+    <state width="1394" height="240" key="GridCell.Tab.1.center" timestamp="1581080982439">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1394" height="240" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1581080982439" />
+    <state width="1394" height="242" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1581076834896" />
+    <state width="1399" height="257" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1577500467229" />
+    <state width="1394" height="240" key="GridCell.Tab.1.left" timestamp="1581080982439">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1394" height="240" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1581080982439" />
+    <state width="1394" height="242" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1581076834896" />
+    <state width="1399" height="257" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1577500467229" />
+    <state width="1394" height="240" key="GridCell.Tab.1.right" timestamp="1581080982439">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1394" height="240" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1581080982439" />
+    <state width="1394" height="242" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1581076834896" />
+    <state width="1399" height="257" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1577500467230" />
+    <state x="229" y="65" key="SettingsEditor" timestamp="1576595158576">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="229" y="65" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1576595158576" />
+    <state x="554" y="334" key="VCS.ChangelistChooser" timestamp="1581076429426">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="554" y="334" key="VCS.ChangelistChooser/0.23.1440.806@0.23.1440.806" timestamp="1581076429426" />
+    <state x="385" y="155" width="670" height="675" key="search.everywhere.popup" timestamp="1576594066937">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="385" y="155" width="670" height="675" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1576594066937" />
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1576593304654" />
+    <state x="450" y="349" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576591115508">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="450" y="349" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.806@0.23.1440.806" timestamp="1576591115508" />
+    <state x="450" y="349" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.808@0.23.1440.808" timestamp="1576590733174" />
+    <state x="450" y="349" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.811@0.23.1440.811" timestamp="1576590088231" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

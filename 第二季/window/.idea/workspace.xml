@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b94c97b3-fd20-43a1-9164-e33a1493ce5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FirstProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/guess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/.idea/Practice1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/Tkinterproject_S02L06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/dictionaries/xiao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/01_entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/02_entry_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/03_Text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/04_list_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/05_List_box2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/venv/lib/python3.8/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tkinterproject_S02L06/venv/lib/python3.8/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/Turtle_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/dictionaries/xiao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/doraemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/venv/lib/python3.8/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle_project/venv/lib/python3.8/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gloableVariable/Tk_Practice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gloableVariable/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/pactice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinterproject4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinterproject4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject/beautiful_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject/beautiful_shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinterproject4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinterproject4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1WVGBwjO1cYVq9OwlZOdNnOQKHJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tk">
+    <configuration name="03_geometry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="window" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_geometry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_label" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="window" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_label.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="window" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_button.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_pack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="window" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_pack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="window" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tk" />
+        <item itemvalue="Python.06_pack" />
+        <item itemvalue="Python.04_label" />
+        <item itemvalue="Python.05_button" />
+        <item itemvalue="Python.03_geometry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b94c97b3-fd20-43a1-9164-e33a1493ce5d" name="Default Changelist" comment="" />
+      <created>1579227217196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579227217196</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1414" height="241" key="GridCell.Tab.0.bottom" timestamp="1580189308279">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1579444306233" />
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1579443409430" />
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1579504096106" />
+    <state width="1414" height="241" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580090180233" />
+    <state width="1414" height="241" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1579620745100" />
+    <state width="1414" height="241" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1580090022702" />
+    <state width="1414" height="241" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1579616975838" />
+    <state width="1414" height="241" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1580189308279" />
+    <state width="1414" height="241" key="GridCell.Tab.0.center" timestamp="1580189308279">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1579444306231" />
+    <state width="1414" height="191" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1579443409430" />
+    <state width="1414" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1579504096105" />
+    <state width="1414" height="241" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1580090180232" />
+    <state width="1414" height="241" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1579620745099" />
+    <state width="1414" height="241" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1580090022701" />
+    <state width="1414" height="241" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1579616975837" />
+    <state width="1414" height="241" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1580189308279" />
+    <state width="1414" height="241" key="GridCell.Tab.0.left" timestamp="1580189308278">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1579444306230" />
+    <state width="1414" height="191" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1579443409429" />
+    <state width="1414" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1579504096105" />
+    <state width="1414" height="241" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1580090180232" />
+    <state width="1414" height="241" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1579620745099" />
+    <state width="1414" height="241" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1580090022700" />
+    <state width="1414" height="241" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1579616975837" />
+    <state width="1414" height="241" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1580189308278" />
+    <state width="1414" height="241" key="GridCell.Tab.0.right" timestamp="1580189308279">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1579444306232" />
+    <state width="1414" height="191" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1579443409430" />
+    <state width="1414" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1579504096105" />
+    <state width="1414" height="241" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1580090180232" />
+    <state width="1414" height="241" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1579620745100" />
+    <state width="1414" height="241" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1580090022701" />
+    <state width="1414" height="241" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1579616975837" />
+    <state width="1414" height="241" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1580189308279" />
+    <state width="1414" height="241" key="GridCell.Tab.1.bottom" timestamp="1580189308281">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1579444306236" />
+    <state width="1414" height="241" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1579499267110" />
+    <state width="1414" height="241" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580090180129" />
+    <state width="1414" height="241" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1579620745100" />
+    <state width="1414" height="241" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1579616975839" />
+    <state width="1414" height="241" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1580189308281" />
+    <state width="1414" height="241" key="GridCell.Tab.1.center" timestamp="1580189308280">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1579444306234" />
+    <state width="1414" height="241" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1579499267109" />
+    <state width="1414" height="241" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1580090180129" />
+    <state width="1414" height="241" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1579620745100" />
+    <state width="1414" height="241" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1579616975838" />
+    <state width="1414" height="241" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1580189308280" />
+    <state width="1414" height="241" key="GridCell.Tab.1.left" timestamp="1580189308280">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1579444306234" />
+    <state width="1414" height="241" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1579499267109" />
+    <state width="1414" height="241" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1580090180129" />
+    <state width="1414" height="241" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1579620745100" />
+    <state width="1414" height="241" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1579616975838" />
+    <state width="1414" height="241" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1580189308280" />
+    <state width="1414" height="241" key="GridCell.Tab.1.right" timestamp="1580189308280">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1579444306235" />
+    <state width="1414" height="241" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1579499267109" />
+    <state width="1414" height="241" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1580090180129" />
+    <state width="1414" height="241" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1579620745100" />
+    <state width="1414" height="241" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1579616975838" />
+    <state width="1414" height="241" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1580189308280" />
+    <state x="98" y="23" key="SettingsEditor" timestamp="1580303173503">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1580089286447" />
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1580089046458" />
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1580303173503" />
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1579613432261" />
+    <state x="100" y="123" width="735" height="604" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579490078596">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="100" y="123" width="735" height="604" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.804@0.23.1440.804" timestamp="1579490078596" />
+    <state x="0" y="23" width="1026" height="801" key="find.popup" timestamp="1579354173650">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="0" y="23" width="1026" height="801" key="find.popup/0.23.1440.801@0.23.1440.801" timestamp="1579354173650" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
