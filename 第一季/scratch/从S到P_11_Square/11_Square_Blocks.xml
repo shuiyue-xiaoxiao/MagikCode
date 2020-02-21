@@ -1,0 +1,106 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables>
+    <variable type="" id="LaF^^rzp];!OW7WL_5zH">turtle</variable>
+    <variable type="" id="MB+!+G*(v:jS/:ORIh.*">screen</variable>
+  </variables>
+  <block type="import_turtle" id="fD}h_OZ@MiL4}yhVv9n*" x="127" y="-1">
+    <next>
+      <block type="turtle" id="8motwc^$Hu!f3t5V31Fa">
+        <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+        <next>
+          <block type="turtleshape" id="J0V%kiQ8;IZdz6@tfyRi">
+            <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+            <value name="text">
+              <shadow type="stringinline" id="^ARq/L7`6_7*n,dpn7Q?">
+                <field name="text">turtle</field>
+              </shadow>
+            </value>
+            <next>
+              <block type="screeninit" id="!VTc%4^Ox`(6kZ,:x3hY">
+                <field name="wn" id="MB+!+G*(v:jS/:ORIh.*" variabletype="">screen</field>
+                <next>
+                  <block type="background" id="6mFi3HTl,+8^{@9?j]=$">
+                    <field name="wn" id="MB+!+G*(v:jS/:ORIh.*" variabletype="">screen</field>
+                    <value name="text">
+                      <shadow type="textinline" id="-yPc!ct,fDNzGUMXwbDr">
+                        <field name="text">0, 0, 0</field>
+                      </shadow>
+                    </value>
+                    <next>
+                      <block type="colourpen" id="eQ;M?mXk1sP|@b)iEJFd">
+                        <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+                        <value name="text">
+                          <shadow type="textinline" id="=8DslE6vw:0ghM)XE%r6">
+                            <field name="text">255, 0, 0</field>
+                          </shadow>
+                        </value>
+                        <next>
+                          <block type="penud" id="w@}OeOtEqOqWLZXE4Ac[">
+                            <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+                            <field name="options">up</field>
+                            <next>
+                              <block type="goto" id="6):4jeylb!~eYmu;s_UJ">
+                                <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+                                <value name="text">
+                                  <shadow type="textinline" id="#:JpT+c.;EFS-`*6];BI">
+                                    <field name="text">-100, 100</field>
+                                  </shadow>
+                                </value>
+                                <next>
+                                  <block type="penud" id="rwtaYu%7.E$5dbU|Kj4/">
+                                    <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+                                    <field name="options">down</field>
+                                    <next>
+                                      <block type="webfor" id="NmpCEm]1AEC_bUxCCow=">
+                                        <value name="letter">
+                                          <shadow type="textinline" id=")yD/B+Ci?a`flc$_CH6}">
+                                            <field name="text">i</field>
+                                          </shadow>
+                                        </value>
+                                        <value name="no">
+                                          <shadow type="textinline" id="nKrbu0JDtlc=VGJdm+nz">
+                                            <field name="text">4</field>
+                                          </shadow>
+                                        </value>
+                                        <statement name="DO">
+                                          <block type="directions" id="!#/fp;pvz1Y`Desc{^Ez">
+                                            <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+                                            <field name="options">forward</field>
+                                            <value name="text">
+                                              <shadow type="textinline" id="R-0bu{p%04O%Yso{o[`o">
+                                                <field name="text">200</field>
+                                              </shadow>
+                                            </value>
+                                            <next>
+                                              <block type="directions" id="d^2v7AGCE!s3zkbS;oH4">
+                                                <field name="turtle" id="LaF^^rzp];!OW7WL_5zH" variabletype="">turtle</field>
+                                                <field name="options">right</field>
+                                                <value name="text">
+                                                  <shadow type="textinline" id="sp[ghe|^-x}%$dT):492">
+                                                    <field name="text">90</field>
+                                                  </shadow>
+                                                </value>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </statement>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
