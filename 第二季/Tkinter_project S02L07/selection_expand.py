@@ -2,10 +2,10 @@ from tkinter import *
 
 
 def choice_1():
-    lbl = Label(window,
-                text="83 x 51 = ? ",
-                font=('Arial', 25))
-    lbl.pack(side=TOP)
+    d = Label(window,
+              text="83 x 51 = ? ",
+              font=('Arial', 25))
+    d.pack(side=TOP)
 
     rb1_1 = Radiobutton(window,
                         text="4633",
@@ -30,10 +30,10 @@ def choice_1():
 
 
 def choice_2():
-    lbl = Label(window,
-                text="65 x 37 = ? ",
-                font=('Arial', 25))
-    lbl.pack(side=TOP)
+    d = Label(window,
+              text="65 x 37 = ? ",
+              font=('Arial', 25))
+    d.pack(side=TOP)
 
     rb2_1 = Radiobutton(window,
                         text="2305",
