@@ -12,9 +12,9 @@ scale1.set(6)
 scale1.pack()
 
 scale2 = Scale(window,
-               from_=0, to=10,
+               from_=0, to=100,
                resolution=20,
-               tickinterval=2,
+               tickinterval=20,
                length=300,
                orient=HORIZONTAL,
                activebackground='green')
