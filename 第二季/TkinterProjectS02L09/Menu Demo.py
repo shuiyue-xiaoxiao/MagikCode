@@ -32,7 +32,7 @@ window.mainloop()  # 主窗口循环
 
 
 '''
-函数：
+参数：
 bg                      背景色，如bg=”red”， bg="#FF56EF"
 fg                      前景色，如fg=”red”， fg="#FF56EF"
 font                    字体设置，如font=("Arial", 8)

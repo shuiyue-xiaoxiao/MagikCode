@@ -7,7 +7,9 @@ def add_My_PyCharm_Menu():
     menu_all.add_cascade(label="My PyCharm(模仿PyCharm菜单)",
                          font=('Arial', 16, 'bold'),
                          menu=menu_My_PyCharm)
-    menu_My_PyCharm.add_command(label="About PyCharm")
+    menu_My_PyCharm.add_command(label="About PyCharm",
+                                font=('Arial', 16, 'bold'),
+                                foreground='red')
     menu_My_PyCharm.add_command(label="Check for updates...")
     menu_My_PyCharm.add_separator()
     menu_My_PyCharm.add_command(label="Preferences...")
