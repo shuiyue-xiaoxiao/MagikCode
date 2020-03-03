@@ -3,6 +3,7 @@
     <words>
       <w>activebackground</w>
       <w>activeforeground</w>
+      <w>bordwidth</w>
       <w>filepath</w>
       <w>offvalue</w>
       <w>onvalue</w>
