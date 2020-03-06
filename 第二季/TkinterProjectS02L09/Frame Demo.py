@@ -11,7 +11,8 @@ Label(window,
       bg='lightblue', fg='white',
       font=('Arial', 16)).pack()
 
-frame = Frame(window, bg='yellow')
+frame = Frame(window, bg='yellow',relief='solid', bd=6,height=100)
+frame.grid_propagate(0)
 frame.pack()
 Label(frame, text="主框架",
       bg='green').pack()
