@@ -7,7 +7,7 @@ window.title('pack_side')
 window.geometry('400x300')
 
 Label(window, text='.pack(side=TOP)',
-      bg='orange', fg='white').pack(side=TOP, fill=X)
+      bg='orange', fg='white', relief='solid', bd=2).pack(side=TOP, fill=X)
 Label(window, text='.pack(side=BOTTOM)',
       bg='red', fg='white').pack(side=BOTTOM, fill=X)
 Label(window, text='.pack(side=LEFT)',
