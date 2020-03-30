@@ -7,7 +7,7 @@ window.title("filedialog demo")
 
 
 def open_file():
-    fileName = askopenfilename()
+    fileName = asksaveasfilename()
     print(fileName)
 
 
