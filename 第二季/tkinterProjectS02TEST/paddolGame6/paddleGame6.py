@@ -79,10 +79,10 @@ class Paddle:
             self.x = 0
 
     def turn_left(self, evt):
-        self.x = -3
+        self.x = -10
 
     def turn_right(self, evt):
-        self.x = 3
+        self.x = 10
 
 
 paddle = Paddle(canvas, "LightSteelBlue")
