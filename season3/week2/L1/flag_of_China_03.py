@@ -20,7 +20,7 @@ def flag_loop():
     def ref_rowLine():
         x_start = - x_width / 2
         y_start = y_height / 2
-        print('x坐标')
+        print('y坐标')
         for i in range(10):
             pen_goto(x_start, y_start)
             setheading(0)
@@ -29,7 +29,7 @@ def flag_loop():
             print(y_start)
             print('!@!@!@!@!@!@!@!@!@!@!@!@!@!')
 
-        print('y坐标')
+        print('x坐标')
         for i in range(15):
             pen_goto(x_start, y_start)
             setheading(90)
@@ -39,12 +39,13 @@ def flag_loop():
             print('!@!@!@!@!@!@!@!@!@!@!@!@!@!')
 
     def pos_BigStar():
+        pencolor('yellow')
         pen_goto(- x_width / 2 / 15 * 10, y_height / 2 / 10 * 2)
         setheading(0)
-        pencolor("black")
         circle(x_width / 2 / 15 * 3)
 
     def pos_star():
+        pencolor('yellow')
         pen_goto(- x_width / 2 / 15 * 5, y_height / 2 / 10 * 7)
         circle(x_width / 2 / 15)
         pen_goto(- x_width / 2 / 15 * 3, y_height / 2 / 10 * 5)
