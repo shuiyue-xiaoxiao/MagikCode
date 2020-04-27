@@ -3,6 +3,8 @@ from turtle import *
 x_width = 1200
 y_height = 800
 
+bgcolor('red')
+
 
 def flag_loop():
     def pen_goto(a, b):

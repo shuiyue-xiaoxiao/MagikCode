@@ -7,8 +7,9 @@ hideturtle()
 # goto(-360, 160)
 # pendown()
 speed(5)
-pencolor('black')
+pencolor('yellow')
 fillcolor('yellow')
+bgcolor('black')
 
 begin_fill()
 for i in range(5):
@@ -19,4 +20,6 @@ for i in range(5):
 
 
 end_fill()
+
+
 done()
