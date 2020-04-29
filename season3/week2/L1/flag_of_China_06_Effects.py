@@ -2,17 +2,17 @@ from turtle import *
 from math import *
 from time import sleep
 
-x_width = numinput("窗口设置", "再次输入窗口的宽度", 1200, 300, 1200)  # 国旗正确比例是3:2
-y_height = x_width * 2 / 3
+y_height = numinput("窗口设置", "再次输入窗口的高度", 800, 0, 1234567654345678765434567765434567876545678765456)  # 国旗正确比例是3:2
+x_width = y_height / 2 * 3
 
 bgcolor('#DE2910')
 setup(x_width, y_height)
 title(textinput('title', '请输入标题 '))
 
 
-def pen_goto(a, b):  # 设置无痕移动画笔
+def pen_goto(x, y):  # 设置无痕移动画笔
     penup()
-    goto(a, b)
+    goto(x, y)
     pendown()
 
 
@@ -26,7 +26,7 @@ def coordinate_axis():
     forward(y_height)
 
 
-square_size = x_width / 2 / 15  # y_width / 2 / 10
+square_size = y_height / 2 / 10  # x_width / 2 / 15
 
 
 def ref_rowLine():
@@ -57,7 +57,7 @@ def ref_rowLine():
 def pos_BigStar():
     speed(5)
     pencolor('black')
-    pen_goto(- square_size * 10, square_size * 2)
+    pen_goto(x=-square_size * 10, y=square_size * 2)
     setheading(0)
     circle(square_size * 3)
 
@@ -123,8 +123,8 @@ def star1():
     pen_goto(- square_size * 5, square_size * 9)
     setheading(0)
     radius = square_size
-    degrees = 90 + degree1
-    spin(- radius, - degrees)  # 弧形移动画笔
+    degree = 90 + degree1
+    spin(- radius, - degree)  # 弧形移动画笔
     setheading(degree1 + 18)
     side_length = sin(radians(36)) / cos(radians(36)) * square_size
     begin_fill()
@@ -150,8 +150,8 @@ def star2():
     pen_goto(- square_size * 3, square_size * 7)
     setheading(0)
     radius = square_size
-    degrees = 90 + degree2
-    spin(- radius, - degrees)  # 弧形移动画笔
+    degree = 90 + degree2
+    spin(- radius, - degree)  # 弧形移动画笔
     setheading(degree2 + 18)
     side_length = sin(radians(36)) / cos(radians(36)) * square_size
     begin_fill()
@@ -177,8 +177,8 @@ def star3():
     pen_goto(- square_size * 3, square_size * 4)
     setheading(0)
     radius = square_size
-    degrees = 90 - degree3
-    spin(- radius, - degrees)  # 弧形移动画笔
+    degree = 90 - degree3
+    spin(- radius, - degree)  # 弧形移动画笔
     setheading(- degree3 + 18)
     side_length = sin(radians(36)) / cos(radians(36)) * square_size
     begin_fill()
@@ -204,8 +204,8 @@ def star4():
     pen_goto(- square_size * 5, square_size * 2)
     setheading(0)
     radius = square_size
-    degrees = 90 - degree4
-    spin(- radius, - degrees)  # 弧形移动画笔
+    degree = 90 - degree4
+    spin(- radius, - degree)  # 弧形移动画笔
     setheading(- degree4 + 18)
     side_length = sin(radians(36)) / cos(radians(36)) * square_size
     begin_fill()

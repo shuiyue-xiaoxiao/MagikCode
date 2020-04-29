@@ -25,7 +25,7 @@ def coordinate_axis():
     forward(y_height)
 
 
-square_size = x_width / 2 / 15  # y_width / 2 / 10
+square_size = y_height / 2 / 10  # x_width / 2 / 15
 
 
 def ref_rowLine():
