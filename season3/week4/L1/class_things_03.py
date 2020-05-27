@@ -1,4 +1,4 @@
-class Things:
+class Things(object):
     pass
 
 
@@ -14,6 +14,19 @@ class Boxes(Inanimate):
     pass
 
 
+class PaperBoxes(Boxes):
+    pass
+
+
+class PlasticBoxes(Boxes):
+    pass
+
+
+class botany(Animate):
+    def photosynthesis(self):
+        pass
+
+
 class Animals(Animate):
     def Breathe(self):
         pass
@@ -23,6 +36,26 @@ class Animals(Animate):
 
     def Eat_food(self):
         pass
+
+
+class Bird(Animals):
+    def ley_eggs(self):
+        pass
+
+
+class Hummingbird(Bird):
+    def __init__(self):
+        print('I\'m the smallest bird in the world')
+
+
+class Reptile(Animals):
+    def ley_eggs(self):
+        pass
+
+
+class Snake(Reptile):
+    def __init__(self):
+        print('I don\'t have legs')
 
 
 class Mammals(Animals):
@@ -35,10 +68,8 @@ class Pandas(Mammals):
         pass
 
 
-Alice = Pandas()
-Alice.Move()
-Alice.Eat_bamboos()
+Jason = Hummingbird()
+print(Jason)
 
-Jason = Pandas()
-Jason.Move()
-
+Alice = Snake()
+print(Alice)
