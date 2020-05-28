@@ -2,7 +2,7 @@ from turtle import *
 from math import *
 from time import sleep
 
-y_height = numinput("窗口设置", "再次输入窗口的高度", 800, 0, 1234567654345678765434567765434567876545678765456)  # 国旗正确比例是3:2
+y_height = numinput("窗口设置", "再次输入窗口的高度", 800, 0, 800)  # 国旗正确比例是3:2
 x_width = y_height / 2 * 3
 
 bgcolor('#DE2910')
