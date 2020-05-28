@@ -1,4 +1,6 @@
 from tkinter import *
+from time import sleep
+
 """step1:创建 Game 类"""
 
 
@@ -9,22 +11,35 @@ class Game:
         self.tk.title('火柴人逃生游戏')
         self.tk.resizable(0, 0)
         self.tk.wm_attributes('-topmost', 0)
-        self.tk.canvas = Canvas(self.tk, width=500, height=500,
+        self.tk.canvas = Canvas(self.tk, width=1000, height=800,
                                 highlightthickness=0)
         self.tk.canvas.pack()
         self.tk.update()
-        self.canvas_width = 500
-        self.canvas_height = 500
+        self.canvas_width = 1000
+        self.canvas_height = 800
         """继续完成 __init__ 函数"""
-        self.background = PhotoImage("./gif/bg100.gif" )
+        self.background = PhotoImage(file="./gif/bg100.gif")
         width = self.background.width()
         height = self.background.height()
-        for x in range(5):
-            for y in range(5):
-                self.tk.canvas.create_image(0 * width, 0 * height,
+        for x in range(0, 10):
+            for y in range(0, 8):
+                self.tk.canvas.create_image(x * width, y * height,
                                             image=self.background,
                                             anchor='nw')
 
+        self.sprites = []
+        self.running = True
+
+    '''step2：创建主循环函数'''
+
+    def mainloop(self):
+        while True:
+            if self.running:
+                for sprite in self.sprites:
+                    sprite.move()
+                self.tk.update_idletasks()
+                self.tk.update()
+                sleep(0.01)
 
 
 StickMen = Game()
