@@ -13,8 +13,8 @@ class Game:
                                 highlightthickness=0)
         self.tk.canvas.pack()
         self.tk.update()
-        self.canvas_width = 500
-        self.canvas_height = 500
+        self.canvas_width = 1000
+        self.canvas_height = 800
 
 
 StickMen = Game()
