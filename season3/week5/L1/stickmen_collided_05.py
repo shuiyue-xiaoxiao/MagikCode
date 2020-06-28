@@ -21,8 +21,8 @@ class Game:
         self.background = PhotoImage(file="./gif/bg100.gif")
         width = self.background.width()
         height = self.background.height()
-        for x in range(0, 10):
-            for y in range(0, 8):
+        for x in range(0, 5):
+            for y in range(0, 5):
                 self.tk.canvas.create_image(x * width, y * height,
                                             image=self.background,
                                             anchor='nw')
@@ -53,59 +53,62 @@ class Coords:
         self.y2 = y2
 
 
-def overlap_x(co2, co1):
-    if co2.x1 < co1.x1 < co2.x2 \
-         or co2.x1 < co1.x2 < co2.x2 \
-         or co1.x1 < co2.x1 < co1.x2 \
-         or co1.x1 < co2.x2 < co1.x2:
+def overlap_x(platform, stickman):
+    if platform.x1 < stickman.x1 < platform.x2 \
+         or platform.x1 < stickman.x2 < platform.x2 \
+         or stickman.x1 < platform.x1 < stickman.x2 \
+         or stickman.x1 < platform.x2 < stickman.x2:
         return True
     else:
         return False
 
 
-def overlap_y(co1, co2):
-    if co2.y1 < co1.y1 < co2.y2 \
-            or co2.y1 < co1.y2 < co2.y2 \
-            or co1.y1 < co2.y1 < co1.y2 \
-            or co1.y1 < co2.y2 < co1.y2:
+def overlap_y(stickman, platform):
+    if platform.y1 < stickman.y1 < platform.y2 \
+            or platform.y1 < stickman.y2 < platform.y2 \
+            or stickman.y1 < platform.y1 < stickman.y2 \
+            or stickman.y1 < platform.y2 < stickman.y2:
         return True
     else:
         return False
 
 
-c1 = Coords(40, 40, 100, 100)  # (200, 200, 260, 260)
-c2 = Coords(50, 50, 150, 150)  # (300, 300, 400, 400)
-# print(overlap_x(co1, co2))
-# print(overlap_y(co1, co2))
+stickman1 = Coords(40, 40, 100, 100)  # (200, 200, 260, 260)
+platform1 = Coords(50, 50, 150, 150)  # (300, 300, 400, 400)
+# print(overlap_x(stickman1, platform1))
+# print(overlap_y(stickman1, platform1))
 
 '''step4：对象冲突检测'''
 '''判断左右前后是否相撞'''
 
 
-def collided_left(co1, co2):
-    if overlap_y(co1, co2):
-        if co2.x1 < co1.x1 < co2.x2:
+def collided_left(stickman, platform):
+    if overlap_y(stickman, platform) \
+            and platform.x1 < stickman.x1 < platform.x2:
+        return True
+    return False
+
+
+def collided_right(stickman, platform):
+    if overlap_y(stickman, platform):
+        if platform.x1 < stickman.x1 < platform.x2:
             return True
         return False
 
 
-print(collided_left(c1, c2))
-
-
-def collided_right(co1, co2):
-    pass
-
-
-def collided_top(co1, co2):
-    pass
-
-
-def collided_bottom(y, co1, co2):
-    if overlap_x(co1, co2):
-        y_clac = co1.y2 + y
-        if co2.y1 < co1.y2 < co2.y2:
+def collided_top(stickman, platform):
+    if overlap_x(stickman, platform):
+        if platform.y1 < stickman.y1 < platform.y2:
             return True
-    return True
+        return False
+
+
+def collided_bottom(y, stickman, platform):
+    if overlap_x(stickman, platform):
+        y_clac = stickman.y2 + y
+        if platform.y1 < stickman.y2 < platform.y2:
+            return True
+    return False
 
 
 StickMen = Game()

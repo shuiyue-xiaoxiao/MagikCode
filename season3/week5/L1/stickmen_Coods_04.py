@@ -11,18 +11,18 @@ class Game:
         self.tk.title('火柴人逃生游戏')
         self.tk.resizable(0, 0)
         self.tk.wm_attributes('-topmost', 0)
-        self.tk.canvas = Canvas(self.tk, width=1000, height=800,
+        self.tk.canvas = Canvas(self.tk, width=500, height=500,
                                 highlightthickness=0)
         self.tk.canvas.pack()
         self.tk.update()
-        self.canvas_width = 1000
-        self.canvas_height = 800
+        self.canvas_width = 500
+        self.canvas_height = 500
         """继续完成 __init__ 函数"""
         self.background = PhotoImage(file="./gif/bg100.gif")
         width = self.background.width()
         height = self.background.height()
-        for x in range(0, 10):
-            for y in range(0, 8):
+        for x in range(0, 5):
+            for y in range(0, 5):
                 self.tk.canvas.create_image(x * width, y * height,
                                             image=self.background,
                                             anchor='nw')
@@ -54,10 +54,11 @@ class Coords:
 
 
 def overlap_x(co2, co1):
+    """判断两个对象在水平方向上是否有重叠"""
     if co2.x1 < co1.x1 < co2.x2 \
-         or co2.x1 < co1.x2 < co2.x2 \
-         or co1.x1 < co2.x1 < co1.x2 \
-         or co1.x1 < co2.x2 < co1.x2:
+            or co2.x1 < co1.x2 < co2.x2 \
+            or co1.x1 < co2.x1 < co1.x2 \
+            or co1.x1 < co2.x2 < co1.x2:
         return True
     else:
         return False
@@ -76,10 +77,10 @@ def overlap_y(co1, co2):
         return False
 
 
-co1 = Coords(40, 40, 100, 100)  # (200, 200, 260, 260)
-co2 = Coords(50, 50, 150, 150)  # (300, 300, 400, 400)
-# print(overlap_x(co1, co2))
-# print(overlap_y(co1, co2))
+coords1 = Coords(40, 40, 100, 100)  # (200, 200, 260, 260)
+coords2 = Coords(300, 300, 400, 400)  # (50, 50, 150, 150)
+print(overlap_x(coords1, coords2))
+print(overlap_y(coords1, coords2))
 
 
 StickMen = Game()

@@ -9,7 +9,7 @@ class Game:
         # 设置窗口和画布
         self.tk = Tk()  # 创建一个 Tk 类的对象，并赋值给 self.tk 的变量
         self.tk.title('火柴人逃生游戏')
-        self.tk.resizable(0, 0)
+        # self.tk.resizable(0, 0)
         self.tk.wm_attributes('-topmost', 0)
         self.tk.canvas = Canvas(self.tk, width=500, height=500,
                                 highlightthickness=0)
@@ -18,17 +18,12 @@ class Game:
         self.canvas_width = 500
         self.canvas_height = 500
         """继续完成 __init__ 函数"""
-        self.background = PhotoImage(file="./gif/bg100.gif")
+        self.background = PhotoImage(file="./gif/bg500.gif")
         width = self.background.width()
         height = self.background.height()
-        for x in range(0, 5):
-            for y in range(0, 5):
-                self.tk.canvas.create_image(x * width, y * height,
-                                            image=self.background,
-                                            anchor='nw')
-                self.tk.update_idletasks()
-                self.tk.update()
-                sleep(1)
+        self.tk.canvas.create_image(width, height,
+                                    image=self.background,
+                                    anchor='se')
 
         self.sprites = []
         self.running = True
@@ -40,6 +35,9 @@ class Game:
             if self.running:
                 for sprite in self.sprites:
                     sprite.move()
+                self.tk.update_idletasks()
+                self.tk.update()
+                sleep(1)
 
 
 StickMen = Game()
