@@ -250,6 +250,57 @@ class StickMan(Sprite):
         else:
             self.game.canvas.itemconfig(self.image, image=self.images_right[self.current_image_index])
 
+    '''step12:定位火柴人的位置'''
+
+    def coords(self):
+        # 用 canvas 变量上的 coords 函数来返回当前图形的 x 和 y 位置，把结果列表保存在变量 location 中
+        location = self.game.canvas.coords(self.image)
+        # 提取列表中索引 0（第一个数值）作为图形左上角 x1 的坐标值
+        self.coordinates.x1 = location[0]
+        # 提取列表中索引 1（第二个数值）作为图形右上角 y1 的坐标值
+        self.coordinates.y1 = location[1]
+        # 将 y1 的坐标值加上图形的宽度作为 x2 的坐标值
+        self.coordinates.x2 = location[0] + 27
+        # 将 y2 的坐标值加上图形的高度作为 y2 的坐标值
+        self.coordinates.y2 = location[1] + 30
+        # 返回对象变量 coordinates 的值
+        return self.coordinates
+
+    def move(self):
+        self.animation()  # 调用 animation 函数
+        if self.y < 0:  # 如果火柴人正在向上跳(因为 y < 0, 负值向上移动)
+            self.jump_count += 1  # 跳跃的计数器 +1
+            if self.jump_count > 20:  # 如果计数器达到 20 次(数字越大，跳的越高)
+                self.y = 4  # 火柴人开始往下落
+        if self.y > 0:  # 如果火柴人往下落
+            self.jump_count -= 1  # 跳跃的计数器 -1
+        coords = self.coords()  # 调用 coords 函数，告诉我们火柴人现在的位置
+        '''建立变量，后面会用这些变量来表示火柴人是否撞到了东西或者是否正在落下'''
+        left = True
+        right = True
+        top = True
+        bottom = True
+        falling = True
+        '''火柴人是否撞到了画布的底部或顶部'''
+        if self.y > 0 and coords.y2 >= self.game.canvas_height:
+            self.y = 0  # 在到达底部的时候火柴人不再继续下落(y = 0)
+            bottom = False  # 不再判断火柴人是否会撞到底部
+        # 如果正在向上跳跃(y < 0), 火柴人左上角 y1 坐标值是否小于或等于 0
+        elif self.y < 0 and coords.y1 <= 0:
+            self.y = 0  # 在到达顶部的时候火柴人不再继续向上(y = 0)
+            top = False  # 不再判断火柴人是否会撞到顶部
+        '''火柴人是否撞到了画布的两侧'''
+        # 如果正在向右跑(x > 0), 火柴人右下角 x2 坐标值是否大于或等于画布的宽度值
+        if self.x > 0 and coords.x2 >= self.game.canvas_width:
+            self.x = 0  # 在到达右侧的时候火柴人不再继续向右(x = 0)
+            right = False  # 不再判断火柴人是否会撞到右侧
+        # 如果正在向左跑(x < 0), 火柴人左上角 x1 坐标值是否大于或等于 0
+        elif self.x < 0 and coords.x1 <= 0:
+            self.x = 0  # 在到达左侧的时候火柴人不再继续向右(x = 0)
+            left = False  # 不再判断火柴人是否会撞到左侧
+
+        self.game.canvas.move(self.image, self.x, self.y)
+
 
 player = Game()
 

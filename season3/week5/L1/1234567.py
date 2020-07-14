@@ -31,7 +31,7 @@ class Game:
 
 stickManGame = Game()
 
-for i in range(200):
+for i in range(100):
     stickManGame.current_image_index += stickManGame.current_image_index_add
     # 0 1 2 0 1 2 0 1 2 0 1 2……
     # 如果当前索引值大于等于 2
@@ -44,6 +44,6 @@ for i in range(200):
         stickManGame.current_image_index_add = 1
     stickManGame.tk.canvas.itemconfig(stickManGame.image, image=stickManGame.images_left[stickManGame.current_image_index])
     stickManGame.tk.update()
-    # time.sleep(0.2)
+    time.sleep(0.2)
 
 mainloop()

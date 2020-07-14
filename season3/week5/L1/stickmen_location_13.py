@@ -250,6 +250,25 @@ class StickMan(Sprite):
         else:
             self.game.canvas.itemconfig(self.image, image=self.images_right[self.current_image_index])
 
+    '''step12:定位火柴人的位置'''
+
+    def coords(self):
+        # 用 canvas 变量上的 coords 函数来返回当前图形的 x 和 y 位置，把结果列表保存在变量 location 中
+        location = self.game.canvas.coords(self.image)
+        # 提取列表中索引 0（第一个数值）作为图形左上角 x1 的坐标值
+        self.coordinates.x1 = location[0]
+        # 提取列表中索引 1（第二个数值）作为图形右上角 y1 的坐标值
+        self.coordinates.y1 = location[1]
+        # 将 y1 的坐标值加上图形的宽度作为 x2 的坐标值
+        self.coordinates.x2 = location[0] + 27
+        # 将 y2 的坐标值加上图形的高度作为 y2 的坐标值
+        self.coordinates.y2 = location[1] + 30
+        # 返回对象变量 coordinates 的值
+        return self.coordinates
+
+    def move(self):
+        pass
+
 
 player = Game()
 
